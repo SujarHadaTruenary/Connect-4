@@ -1,11 +1,11 @@
 {
-  "homepage":"https://SujarHadaTruenary.github.io/Connect-4",
+  "homepage": "https://SujarHadaTruenary.github.io/Connect-4",
   "name": "connect-4",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeply": "npm run build", 
+    "predeply": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
